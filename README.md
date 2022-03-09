@@ -22,7 +22,7 @@ Pokedex.jsx:
 - Os únicos dados que os pokemons devem ter são: nome e sua respectiva url
 
 
-### Pasos para executar o projeto
+### Passos para executar o projeto
 
 Por primeiro: `npm install`
 Em seguida: `npm start`
